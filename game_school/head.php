@@ -72,7 +72,7 @@
         </ul>
       </li>
       <li><a href="course.php">Courses</a></li>
-      <li><a href="#section6">Contact</a></li>
+      <li><a href="contact.php">Contact</a></li>
 
       <?php if (isset($_SESSION['login'])): ?>
         <li class="user-dropdown">
